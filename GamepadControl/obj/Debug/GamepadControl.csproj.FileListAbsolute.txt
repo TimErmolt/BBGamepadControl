@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\GamepadControl.exe.config
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\GamepadControl.exe
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\GamepadControl.pdb
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.Form1.resources
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.Properties.Resources.resources
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.exe
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.pdb
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\Microsoft.DirectX.dll
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\bin\Debug\Microsoft.DirectX.xml
+C:\Users\1\Desktop\Университет\Учебный материал\1 курс\Проектная деятельность (2 семестр -- Робот-инспектор)\Gamepad Control\GamepadControl\GamepadControl\obj\Debug\GamepadControl.csproj.CopyComplete
