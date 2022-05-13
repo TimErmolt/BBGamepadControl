@@ -123,17 +123,10 @@ namespace GamepadControl
 
         private void Poll()
         {
-            try
-            {
-                // poll the joystick
-                joystickDevice.Poll();
-                // update the joystick state field
-                state = joystickDevice.CurrentJoystickState;
-            }
-            catch
-            {
-                throw (null);
-            }
+            // poll the joystick
+            joystickDevice.Poll();
+            // update the joystick state field
+            state = joystickDevice.CurrentJoystickState;
         }
     }
     }

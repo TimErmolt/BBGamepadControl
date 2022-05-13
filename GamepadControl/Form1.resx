@@ -120,4 +120,24 @@
   <metadata name="gamepad_timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>120, 10</value>
   </metadata>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>257, 10</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADoAAAA6BAMAAAATlVcbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAGUExURSEhJv8/P0BPquYAAAAJcEhZcwAADsIAAA7CARUoSoAAAACCSURBVDjL7dVBDoAgDETR
+        9gad+1/WuBBB4NeEEDfOjryUjXawOjpj4+jKwLygFIQ9qw1iy95p0Gg9LBGj+lCDRq9hn2i8UAmu9qlG
+        qhJdvaAOGhtVlF8b/eob7fvrlnaBtyxR3l9uhqRVVvoqacKkRbmBu+FHuXPz86th/OIUv49mB51lV6mG
+        xFgrAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="pictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACwAAAAhBAMAAABQNFTsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAADUExURf8/P/daDjYAAAAJcEhZcwAADsEAAA7BAbiRa+0AAAAQSURBVCjPYxgFo2CkAQYGAAL3
+        AAEsZG52AAAAAElFTkSuQmCC
+</value>
+  </data>
 </root>

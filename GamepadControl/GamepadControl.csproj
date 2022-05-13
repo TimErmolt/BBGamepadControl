@@ -95,5 +95,17 @@
   <ItemGroup>
     <None Include="Resources\red.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joystick_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trigger_highlight.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
