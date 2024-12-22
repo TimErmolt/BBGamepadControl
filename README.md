@@ -1,5 +1,8 @@
 # BBGamepadControl
-(WIP) A script allowing the BigBrother robot to be manually controlled using a gamepad.
+A script allowing the BigBrother robot to be manually controlled using a gamepad.
+
+Part of a project work I did in university in 2022.
+
 
 **Controls:**
 
